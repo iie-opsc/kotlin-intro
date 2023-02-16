@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Welcome App</string>
+    <string name="photo_of_kotlin_island">Photo of Kotlin island</string>
+    <string name="welcome_to_kotlin_for_android">Welcome to Kotlin for Android</string>
+</resources>
